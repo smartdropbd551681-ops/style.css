@@ -70,4 +70,21 @@ text-align:center;
 width:100%;
 border-radius:8px;
 margin-bottom:10px;
+}.offer{
+background:#111;
+color:#fff;
+text-align:center;
+padding:40px 20px;
+margin-top:30px;
+border-radius:10px;
+}
+
+.offer h2{
+margin-bottom:15px;
+font-size:30px;
+}
+
+.offer p{
+margin:10px 0;
+font-size:18px;
 }
